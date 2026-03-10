@@ -1,4 +1,4 @@
-날씨 정보를 요청해서 csv로 저장하는 코드
+#날씨 정보를 요청해서 csv로 저장하는 코드
 import requests
 import csv
 from datetime import datetime
