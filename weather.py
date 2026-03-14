@@ -24,4 +24,4 @@ with open("weather.csv", "a", newline="") as f:
         writer.writerow(header)
 
     writer.writerow([current_time, temp, humidity, main])
-print("현재 날씨 저장 완료")
+print("날씨 저장 완료")
